@@ -1,0 +1,4 @@
+meson setup build
+meson compile -C build
+./build/bench
+python3 generate_graphs.py
