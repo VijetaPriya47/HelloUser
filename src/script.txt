@@ -1,0 +1,28 @@
+##Structure
+
+/src
+ ├── main.cpp
+ ├── Trader.cpp
+ ├── Trader.hpp
+ ├── Api.cpp
+ ├── Api.hpp
+ ├── Socket.cpp
+ ├── Socket.hpp
+ ├── BSocket.cpp
+ ├── BSocket.hpp
+ ├── Socketpp.cpp
+ ├── Socketpp.hpp
+ ├── test_latency.cpp
+/meson.build
+
+## How to Run the file
+
+meson setup build
+meson compile -C build
+./build/main
+
+
+##Additional Notes
+
+for multi socket, threads are in socket.cpp
+api.cpp
