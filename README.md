@@ -135,3 +135,12 @@ The project is organized into the following files and directories:
  📄 meson.build              # Meson build configuration
  📄 README.md                # Project documentation
 ```
+
+---
+
+## 📚 Documentation
+- Docs index: `docs/README.md`
+- Overview: `docs/overview.md`
+- API Reference: `docs/api/Api.md`, `docs/api/User.md`, `docs/api/Websockets.md`
+- Guides: `docs/guides/usage.md`
+- Examples: `docs/examples.md`
