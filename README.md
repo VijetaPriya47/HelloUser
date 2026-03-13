@@ -1,4 +1,4 @@
-# 🚀 **Project: Hello Trading System**
+# 🚀 **Project: Low Latency Trading System**
 
 This project is a C++-based trading system that uses WebSockets for real-time data distribution and integrates several third-party libraries for logging, JSON parsing, and secure communication.
 
